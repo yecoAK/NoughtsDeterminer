@@ -1,4 +1,4 @@
-import java.util.*; 
+jaimport java.util.*; 
 import java.io.*;
 
 class Main {
